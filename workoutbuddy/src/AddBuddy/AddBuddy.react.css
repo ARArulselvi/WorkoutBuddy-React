@@ -1,0 +1,6 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+
+.form-center{
+    width:80px;
+    position: absolute;
+}

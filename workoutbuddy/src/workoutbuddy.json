@@ -1,0 +1,189 @@
+{
+  "buddies": [
+    {
+      "id": 1,
+      "BuddyName": "Ramesh",
+      "location": "chennai",
+      "phoneNum": "789654123"
+    },
+    {
+      "id": 2,
+      "BuddyName": "arul",
+      "location": "chennai",
+      "phoneNum": "456321789"
+    },
+    {
+      "id": 3,
+      "BuddyName": "janani",
+      "location": "Chennai",
+      "phoneNum": "456212398"
+    },
+    {
+      "id": 4,
+      "BuddyName": "siji",
+      "location": "kerala",
+      "phoneNum": "789654123"
+    },
+    {
+      "id": "17",
+      "BuddyName": "Surya",
+      "location": "m",
+      "phoneNum": ""
+    },
+    {
+      "id": "21",
+      "BuddyName": "Timi",
+      "location": "Nagercoil",
+      "phoneNum": "123654789"
+    }
+  ],
+  "myWorkout": [
+    {
+      "id": 1,
+      "details": "Squats",
+      "date": "2019-06-10",
+      "visibility": "public",
+      "likes": 10,
+      "comments": "Nice"
+    },
+    {
+      "id": 2,
+      "details": "wall sit",
+      "date": "2019-07-02",
+      "visibility": "private",
+      "likes": 0,
+      "comments": ""
+    },
+    {
+      "id": 3,
+      "details": "Push ups",
+      "date": "2019-07-10",
+      "visibility": "private",
+      "likes": 0,
+      "comments": ""
+    },
+    {
+      "id": 4,
+      "details": "Leg curl",
+      "date": "2019-07-21",
+      "visibility": "public",
+      "likes": 7,
+      "comments": "Nice"
+    },
+    {
+      "id": 5,
+      "details": "Leg Press",
+      "date": "2019-05-01",
+      "visibility": "public",
+      "likes": 21,
+      "comments": [
+        "Good",
+        "Super"
+      ]
+    },
+    {
+      "id": 6,
+      "details": "html",
+      "date": "2019-07-17",
+      "visibility": "public",
+      "likes": 9,
+      "comments": ""
+    },
+    {
+      "id": 7,
+      "details": "dasd",
+      "date": "2019-07-27",
+      "visibility": "public",
+      "likes": 15,
+      "comments": "Super"
+    },
+    {
+      "id": 8,
+      "details": "squats",
+      "date": "2019-08-01",
+      "visibility": "public",
+      "likes": 9,
+      "comments": "Super"
+    },
+    {
+      "id": 9,
+      "details": "js",
+      "date": "2019-05-17",
+      "visibility": "public",
+      "likes": 9,
+      "comments": "Nice"
+    },
+    {
+      "id": 10,
+      "details": "html",
+      "date": "2019-07-18",
+      "visibility": "public",
+      "likes": 1,
+      "comments": "Nice"
+    },
+    {
+      "id": 11,
+      "details": "html",
+      "date": "2019-06-30",
+      "visibility": "public",
+      "likes": 1,
+      "comments": ""
+    },
+    {
+      "id": 12,
+      "details": "leg press",
+      "date": "2019-06-02",
+      "visibility": "private",
+      "likes": 0,
+      "comments": ""
+    },
+    {
+      "id": "26",
+      "details": "Push ups",
+      "date": "2019-08-02",
+      "visibility": "public",
+      "likes": 0,
+      "comments": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "Name": "Ramesh",
+      "details": "Squat",
+      "visibility": "public",
+      "likes": 8,
+      "comments": [
+        [
+          "Super",
+          "nice"
+        ],
+        "nice"
+      ]
+    },
+    {
+      "id": 2,
+      "Name": "Siji",
+      "details": "Leg Press",
+      "visibility": "public",
+      "likes": 9,
+      "comments": "superb"
+    },
+    {
+      "id": 3,
+      "Name": "Ram",
+      "details": "Wall sit",
+      "visibility": "public",
+      "likes": 7,
+      "comments": "Superb"
+    },
+    {
+      "id": 4,
+      "Name": "Raj",
+      "details": "Leg Press",
+      "visibility": "private",
+      "likes": 9,
+      "comments": "Superb"
+    }
+  ]
+}
